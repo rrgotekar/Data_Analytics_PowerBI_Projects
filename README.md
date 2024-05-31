@@ -1,4 +1,4 @@
-# Data_Analytics_Projects
+# Data_Analytics_PowerBI_Projects
 
 Overview
 This project involves analyzing an insurance dataset to uncover key insights and trends. The analysis includes data cleaning, exploratory data analysis (EDA), feature engineering, and model building to predict insurance costs. This README file provides an overview of the dataset, the analytics process, and the results.
